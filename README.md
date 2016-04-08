@@ -1,6 +1,6 @@
-#Praktikum I - (II) Studium harmonických kmitů mechanického oscilátoru
+##Praktikum I - (II) Studium harmonických kmitů mechanického oscilátoru
 
-##Vladislav Wohlrath
+*Vladislav Wohlrath*
 
 Měřeno: 3. 3. 2016
 
