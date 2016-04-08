@@ -1,1 +1,1 @@
-Praktika I - (II) Studium harmonických kmitů mechanického oscilátoru
+Vladislav Wohlrath, Praktikum I - (II) Studium harmonických kmitů mechanického oscilátoru
