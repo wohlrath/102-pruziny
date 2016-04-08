@@ -3,4 +3,5 @@
 ##Vladislav Wohlrath
 
 Měřeno: 3. 3. 2016
+
 Hodnocení: 20
